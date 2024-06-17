@@ -1,9 +1,0 @@
-Key classification metrics
-a. Accuracy: number of correct predictions / total number of predictions
-b. recall: number of true positives / (true positves + false negatives)
-c. Precision: Ability of a classification model to identify only the relevant data points
-True positives / (true positives + false positives)
-d. F1-score: the harmonic mean of Precision and Recall
-
-
-Deep learning
